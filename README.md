@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guminqi
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javasc
+- 🌱 I’m currently learning Vue.js and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
