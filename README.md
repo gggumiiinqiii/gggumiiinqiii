@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @guminqi
-- 🌱 I’m currently learning React.js and Ts
+- 👋 Hi, I’m @gzeal
+- 🌱 I’m currently learning Vue3\React.js\TypeScript
 - 💞️ I’m looking to collaborate on ...
 
 <!---
